@@ -72,8 +72,12 @@ adicionalemte de contar con composter y un paquete de servidor virtual tipo (XAM
 
 ### Instrucciones
 
+Descarga el codigo fuente del siguiente enlace [Mediafire](https://www.mediafire.com/file/nkrag018or2sa4m/scss-sistema.zip/file).
+
+Descomprima
+
 1. en el archivo .env debe de escribir la base de datos que desea asignar Mysql
-   ![Texto alternativo](/imagen1.jpg)
+   ![Imagen 1](/imagen1.jpg)
 2. al realizar el cambio esciba en la consola ya dentro del directorio de desarrollo
 
 ```

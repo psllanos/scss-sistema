@@ -65,8 +65,9 @@ Si descubre una vulnerabilidad de seguridad en Laravel, por favor envíe un corr
 
 El framework Laravel es un software de código abierto con licencia [MIT](https://opensource.org/licenses/MIT).
 
+## Version Web
 
-
+El proyecto se encuentra en hosting para visualizarlo ingrese a [App Web](https://back.swifico.co/login).
 
 
 

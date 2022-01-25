@@ -69,6 +69,9 @@ El framework Laravel es un software de código abierto con licencia [MIT](https:
 
 El proyecto se encuentra en hosting para visualizarlo ingrese a [App Web](https://back.swifico.co/login).
 
+Correo: demo@demo.com
+Contraseña:demo2021
+
 
 
 ## Instalacion
@@ -108,3 +111,8 @@ al correr el codigo si no se a presentado un error la plataforma deberia estar c
    
 ## Capturas del sitio
 
+![imagen 2](/imagen_2022-01-25_130217.png)
+
+
+
+![Imagen 3](/imagen_2022-01-25_130451.png)

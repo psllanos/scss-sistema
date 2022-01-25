@@ -102,3 +102,9 @@ al correr el codigo si no se a presentado un error la plataforma deberia estar c
 
 4. como es una fase temprana de desarrollo el sistema da la opcion de ingresar nuevo usuario
    esto se modificara de cara a la entrega del software ya que actualmente el usuario entra con maximos privilegios
+   
+   
+   
+   
+##Capturas del sitio
+

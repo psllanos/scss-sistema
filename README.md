@@ -106,5 +106,5 @@ al correr el codigo si no se a presentado un error la plataforma deberia estar c
    
    
    
-##Capturas del sitio
+## Capturas del sitio
 
